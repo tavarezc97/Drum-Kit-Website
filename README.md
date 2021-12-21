@@ -1,6 +1,6 @@
 # Drum-Kit-Website
 
-Using Javascript and the "addEventListner" method I made Drumkit Website that played sound.
+Using Javascript and the "addEventListner" method I made a Drumkit Website that plays sound.
 
 When the corresponding letter is clicked by the mouse or clicked on the keyboard a sound will play because of the "addEventListener" method.
 
